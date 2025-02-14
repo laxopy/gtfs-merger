@@ -1,0 +1,6 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__541___,CRTM,541,MADRID (Príncipe Pío)-VILLAMANTA-LA TORRE DE E. HAMBRAN,,3,https://www.crtm.es/8__541___.aspx,8EBF42,FFFFFF
+8__545___,CRTM,545,MADRID (Príncipe Pío)-CENICIENTOS-SOTILLO DE LA ADRADA,,3,https://www.crtm.es/8__545___.aspx,8EBF42,FFFFFF
+8__546___,CRTM,546,MADRID (Príncipe Pío)-ROZAS DE PUERTO REAL-CASILLAS,,3,https://www.crtm.es/8__546___.aspx,8EBF42,FFFFFF
+8__547___,CRTM,547,MADRID (Príncipe Pío)-V.DEL PRADO-ALMOROX-ALDEA EN CABO,,3,https://www.crtm.es/8__547___.aspx,8EBF42,FFFFFF
+8__548___,CRTM,548,MADRID (Príncipe Pío)-ALDEA DEL FRESNO-CALALBERCHE,,3,https://www.crtm.es/8__548___.aspx,8EBF42,FFFFFF

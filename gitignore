@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+.env
+
+# Ignore temporary extracted GTFS files
+temp_gtfs_extracted/
+temp_gtfs_output/
+
+# Ignore output GTFS zip files
+output_feed/
+
+# Ignore __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+*.log
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/

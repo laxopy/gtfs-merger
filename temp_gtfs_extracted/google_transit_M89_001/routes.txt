@@ -1,0 +1,44 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+8__151___,CRTM,151,MADRID (Plaza de Castilla) - ALCOBENDAS,,3,https://www.crtm.es/8__151___.aspx,8EBF42,FFFFFF
+8__152_C__,CRTM,152C,MADRID (Plaza de Castilla)-S.S. DE LOS REYES (Dehesa Vieja),,3,https://www.crtm.es/8__152_C__.aspx,8EBF42,FFFFFF
+8__153___,CRTM,153,MADRID (Plaza de Castilla)-ALCOBENDAS-ROSA LUXEMBURGO,,3,https://www.crtm.es/8__153___.aspx,8EBF42,FFFFFF
+8__154___,CRTM,154,MADRID (Chamartín)-S.S. REYES CIRCULAR (Por Fuencarral),,3,https://www.crtm.es/8__154___.aspx,8EBF42,FFFFFF
+8__154_C__,CRTM,154C,MADRID (Plaza de Castilla)-S.S. DE LOS REYES (Avda. de los Quiñones),,3,https://www.crtm.es/8__154_C__.aspx,8EBF42,FFFFFF
+8__155___,CRTM,155,MADRID (Plaza de Castilla)-EL SOTO DE LA MORALEJA,,3,https://www.crtm.es/8__155___.aspx,8EBF42,FFFFFF
+8__155_B__,CRTM,155B,MADRID (Plaza de Castilla)-EL ENCINAR DE LOS REYES,,3,https://www.crtm.es/8__155_B__.aspx,8EBF42,FFFFFF
+8__156___,CRTM,156,MADRID (Plaza de Castilla)-S.S. DE LOS REYES (P.I. Moscatelares),,3,https://www.crtm.es/8__156___.aspx,8EBF42,FFFFFF
+8__157___,CRTM,157,MADRID (Plaza de Castilla)-ALCOBENDAS (P.Chopera),,3,https://www.crtm.es/8__157___.aspx,8EBF42,FFFFFF
+8__157_C__,CRTM,157C,MADRID (Plaza de Castilla)-ALCOBENDAS (Valdelasfuentes),,3,https://www.crtm.es/8__157_C__.aspx,8EBF42,FFFFFF
+8__158___,CRTM,158,MADRID (Pinar de Chamartín) - SAN SEBASTIÁN DE LOS REYES (Tempranales),,3,https://www.crtm.es/8__158___.aspx,8EBF42,FFFFFF
+8__159___,CRTM,159,MADRID (Plaza de Castilla)-ALCOBENDAS (Arroyo de la Vega),,3,https://www.crtm.es/8__159___.aspx,8EBF42,FFFFFF
+8__161___,CRTM,161,MADRID (Plaza de Castilla)-URB. FUENTE DEL FRESNO,,3,https://www.crtm.es/8__161___.aspx,8EBF42,FFFFFF
+8__166___,CRTM,166,SAN SEBASTIAN DE LOS REYES - URBANIZACION VALDELAGUA,,3,https://www.crtm.es/8__166___.aspx,8EBF42,FFFFFF
+8__180___,CRTM,180,ALCOBENDAS-ALGETE,,3,https://www.crtm.es/8__180___.aspx,8EBF42,FFFFFF
+8__181___,CRTM,181,MADRID (Plaza de Castilla)-ALGETE,,3,https://www.crtm.es/8__181___.aspx,8EBF42,FFFFFF
+8__182___,CRTM,182,MADRID (Plaza de Castilla)-ALGETE-VALDEOLMOS,,3,https://www.crtm.es/8__182___.aspx,8EBF42,FFFFFF
+8__183___,CRTM,183,MADRID (Plaza de Castilla)-COBEÑA-ALGETE,,3,https://www.crtm.es/8__183___.aspx,8EBF42,FFFFFF
+8__184___,CRTM,184,MADRID (Plaza de Castilla)-EL CASAR,,3,https://www.crtm.es/8__184___.aspx,8EBF42,FFFFFF
+8__185___,CRTM,185,MADRID (Plaza de Castilla)-NUEVO ALGETE,,3,https://www.crtm.es/8__185___.aspx,8EBF42,FFFFFF
+8__263___,CRTM,263,MADRID (Barajas)-COBEÑA-ALGETE,,3,https://www.crtm.es/8__263___.aspx,8EBF42,FFFFFF
+8__720___,CRTM,720,COLMENAR VIEJO (Estación FF.CC.) - COLLADO VILLALBA,,3,https://www.crtm.es/8__720___.aspx,8EBF42,FFFFFF
+8__721___,CRTM,721,MADRID (Plaza de Castilla)-COLMENAR VIEJO,,3,https://www.crtm.es/8__721___.aspx,8EBF42,FFFFFF
+8__722___,CRTM,722,MADRID (Plaza de Castilla) - COLMENAR VIEJO (Navallar),,3,https://www.crtm.es/8__722___.aspx,8EBF42,FFFFFF
+8__723___,CRTM,723,COLMENAR VIEJO-TRES CANTOS,,3,https://www.crtm.es/8__723___.aspx,8EBF42,FFFFFF
+8__724___,CRTM,724,MADRID (Plaza de Castilla)-MANZANARES-EL BOALO,,3,https://www.crtm.es/8__724___.aspx,8EBF42,FFFFFF
+8__725___,CRTM,725,MADRID (Plaza de Castilla)-MIRAFLORES-BUSTARVIEJO-VALDEMANCO,,3,https://www.crtm.es/8__725___.aspx,8EBF42,FFFFFF
+8__726___,CRTM,726,MADRID (Plaza de Castilla)-GUADALIX-NAVALAFUENTE,,3,https://www.crtm.es/8__726___.aspx,8EBF42,FFFFFF
+8__727___,CRTM,727,COLMENAR VIEJO-SAN AGUSTÍN DEL GUADALIX,,3,https://www.crtm.es/8__727___.aspx,8EBF42,FFFFFF
+8_N_101___,CRTM,N101,MADRID (Plaza de Castilla)-ALCOBENDAS,,3,https://www.crtm.es/8_N_101___.aspx,8EBF42,FFFFFF
+8_N_102___,CRTM,N102,MADRID (Plaza de Castilla)-S.S. DE LOS REYES,,3,https://www.crtm.es/8_N_102___.aspx,8EBF42,FFFFFF
+8_N_103___,CRTM,N103,MADRID (Plaza de Castilla)-ALGETE,,3,https://www.crtm.es/8_N_103___.aspx,8EBF42,FFFFFF
+8_N_702___,CRTM,N702,MADRID (Plaza de Castilla)-COLMENAR VIEJO,,3,https://www.crtm.es/8_N_702___.aspx,8EBF42,FFFFFF
+8__SE720___,CRTM,SE720,EST. COLMENAR - SOTO DEL REAL - MANZANARES EL REAL,,3,https://www.crtm.es/8__SE720___.aspx,8EBF42,FFFFFF
+9__1__045_,CRTM,1,EST. COMENAR VIEJO - LAS ADELFILLAS,,3,https://www.crtm.es/9__1__045_.aspx,E60003,FFFFFF
+9__2__045_,CRTM,2,EST. COLMENAR VIEJO - AV. REMEDIOS,,3,https://www.crtm.es/9__2__045_.aspx,E60003,FFFFFF
+9__4__134_,CRTM,4,POLIDEPORTIVO-MOSCATELARES,,3,https://www.crtm.es/9__4__134_.aspx,E60003,FFFFFF
+9__5__006_,CRTM,5,S. S. DE LOS REYES-ALCOBENDAS-SOTO MORALEJA,,3,https://www.crtm.es/9__5__006_.aspx,E60003,FFFFFF
+9__6__006_,CRTM,6,ESTACIÓN FFCC VALDELASFUENTES-POLG. INDUSTRIAL,,3,https://www.crtm.es/9__6__006_.aspx,E60003,FFFFFF
+9__7__134_,CRTM,7,ESTACIÓN FFCC-POLÍGONOS-ESTACIÓN FFCC,,3,https://www.crtm.es/9__7__134_.aspx,E60003,FFFFFF
+9__9__006_,CRTM,9,ESTACIÓN FFCC-ARROYO DE LA VEGA,,3,https://www.crtm.es/9__9__006_.aspx,E60003,FFFFFF
+9__10__006_,CRTM,10,CIRCULAR DE ALCOBENDAS,,3,https://www.crtm.es/9__10__006_.aspx,E60003,FFFFFF
+9__11__006_,CRTM,11,CIRCULAR DE ALCOBENDAS,,3,https://www.crtm.es/9__11__006_.aspx,E60003,FFFFFF
